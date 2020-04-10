@@ -19,10 +19,10 @@
  */
 
 var HDWalletProvider = require('truffle-hdwallet-provider');
-var infuraKey = "9bc433b35c6842ca878cd15d906e2f97";
+var infuraKey = "enter your infura key";
 
 
-var mnemonic = "lunch art organ swear buddy ridge steak gain person dash leave undo";
+var mnemonic = "//seedphrase";
 
 module.exports = {
   /**
@@ -49,7 +49,7 @@ module.exports = {
     },
 
     rinkeby: {
-      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/9bc433b35c6842ca878cd15d906e2f97`),
+      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3// "write your infurakey"`),
       network_id: 4,          // Rinkeby's id
       gas: 5500000,        
     },    
