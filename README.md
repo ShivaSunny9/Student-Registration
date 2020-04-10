@@ -3,8 +3,7 @@ Decentalized Student Registration Dapp, Calculates the fee by taking Caste and m
 
 
 
-
-git clone https://github.com/bukosabino/truffle-voting-dapp-ropsten.git
+git clone https://github.com/ShivaSunny9/Student-Registration.git
 
 cd truffle-Student-Registration
 
