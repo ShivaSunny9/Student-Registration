@@ -25,5 +25,6 @@ var address = "rinkeby address with ether";
 truffle migrate --reset --network rinkeby
 
 Note: If you receive an error Error: Exceeds block gas limit, you may need to manually set the gas limit for your contract. See the Truffle Configuration documentation for details.
-npm run test
+
+npm run dev
 
