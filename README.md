@@ -1,7 +1,9 @@
 # Student-Registration
 Decentalized Student Registration Dapp, Calculates the fee by taking Caste and merit Scholarship into consideration.
 
-![image of Student Registration] (https://github.com/ShivaSunny9/Student-Registration/blob/master/rsz_screenshot_from_2020-04-10_14-07-47.png)
+
+![image of Student Registration](https://github.com/ShivaSunny9/Student-Registration/blob/master/rsz_screenshot_from_2020-04-10_14-07-47.png)
+
 
 git clone https://github.com/ShivaSunny9/Student-Registration.git
 
